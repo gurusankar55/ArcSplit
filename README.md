@@ -1,3 +1,8 @@
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-363636?logo=solidity)](https://soliditylang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Arc Testnet](https://img.shields.io/badge/Network-Arc%20Testnet-5B5BFF)](https://www.arc.network/)
+[![Tests](https://img.shields.io/badge/Tests-14%20passing-brightgreen)](https://github.com/gurusankar55/ArcSplit)
 # ArcSplit
 
 ### Decentralized USDC Payment Splitting on Arc Testnet
