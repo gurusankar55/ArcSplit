@@ -4,7 +4,7 @@
 [![Arc Testnet](https://img.shields.io/badge/Network-Arc%20Testnet-5B5BFF)](https://www.arc.network/)
 [![Tests](https://img.shields.io/badge/Tests-14%20passing-brightgreen)](https://github.com/gurusankar55/ArcSplit)
 # ArcSplit
-
+[🚀 Live Demo](https://arc-split.vercel.app) · [📦 GitHub](https://github.com/gurusankar55/ArcSplit)
 ### Decentralized USDC Payment Splitting on Arc Testnet
 
 ArcSplit is a lightweight Web3 payment-splitting application that distributes ERC-20 payments across multiple predefined recipients directly through a smart contract.
