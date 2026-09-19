@@ -270,17 +270,18 @@ Arc Testnet
 Chain ID: 5042002
 ```
 
+```md
 ### ArcSplit
 
-```text
-0x3efd9bbe0462a0ecfc6730ea0948ad8ff5d81315
-```
+[View ArcSplit on Arc Testnet Explorer](https://explorer.testnet.arc.io/address/0x3efd9bbe0462a0ecfc6730ea0948ad8ff5d81315)
+
+**Contract:** `0x3efd9bbe0462a0ecfc6730ea0948ad8ff5d81315`
 
 ### MockUSDC
 
-```text
-0xb7d54b444a0601325e6c606c3d6b9897002c25bf
-```
+[View MockUSDC on Arc Testnet Explorer](https://explorer.testnet.arc.io/address/0xb7d54b444a0601325e6c606c3d6b9897002c25bf)
+
+**Contract:** `0xb7d54b444a0601325e6c606c3d6b9897002c25bf`
 
 The deployed contracts used for testing are verified on the Arc Testnet explorer.
 
